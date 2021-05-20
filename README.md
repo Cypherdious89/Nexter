@@ -15,6 +15,6 @@ https://ps09-nexter.netlify.app/
 
 Feel free to explore the Webpage using the link provided.
 
-__All types of constructive suggestions and feedback are welcomed.__
+***All types of constructive suggestions and feedback are welcomed.**
 
-_Happy Learning !!!_🙂
+*Happy Learning !!!* 🙂
